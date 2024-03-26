@@ -1,0 +1,15 @@
+ lundi , cafe ,eru ,lait
+ mardi , l ikok ,eru ,b
+ e , f ,g ,f
+ e , e ,d ,d
+ d , d ,d ,d
+ d , d ,d ,d
+ d , d ,d ,d
+ d , d ,d ,d
+ lundi , w ,d ,f
+  , d ,d ,d
+ d , d ,d ,d
+ d , d ,d ,d
+ d , d ,d ,d
+ d , q ,q ,q
+ lundi , eru ,ndole ,couscous ,None

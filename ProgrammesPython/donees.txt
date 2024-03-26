@@ -1,0 +1,3 @@
+ samedi , omelettes ,riz saute ,riz saute ,None
+ dimanche , avocat ,plantain+pistache ,pain ,None
+ lundi , omellete ,couscous ,pain ,None
